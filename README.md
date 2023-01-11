@@ -25,6 +25,13 @@ A simple one page Employers Management website made using React(Redux, Redux Sag
     <td>True</td>
     
   </tr>
+      
+  </tr>
+    <tr>
+    <td>role</td>
+    <td>True</td>
+    
+  </tr>
     <tr>
     <td>phoneNumber</td>
     <td>True</td>
@@ -37,4 +44,5 @@ A simple one page Employers Management website made using React(Redux, Redux Sag
   </tr>
  
 </table>
+
 

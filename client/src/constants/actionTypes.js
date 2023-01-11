@@ -1,0 +1,16 @@
+export const CREATE = "CREATE";
+export const CREATE_SUCCESS = "CREATE_SUCCESS";
+export const CREATE_FAILED = "CREATE_FAILED";
+
+export const UPDATE = "UPDATE";
+export const UPDATE_SUCCESS = "UPDATE_SUCCESS";
+export const UPDATE_FAILED = "UPDATE_FAILED";
+
+export const DELETE = "DELETE";
+export const DELETE_SUCCESS = "DELETE_SUCCESS";
+export const DELETE_FAILED = "DELETE_FAILED";
+
+export const FETCH_ALL = "FETCH_ALL";
+export const FETCH_EMPLOYEES_SUCCESS = "FETCH_EMPLOYEES_SUCCESS";
+
+export const FETCH_EMPLOYEES_FAILED = "FETCH_EMPLOYEES_FAILED";

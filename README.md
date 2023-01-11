@@ -50,5 +50,10 @@ A simple one page Employers Management website made using React(Redux, Redux Sag
 - [x] Input validation
 <img src="https://github.com/birehan/Employee-Management-Site/blob/main/assets/Screenshot%20from%202023-01-11%2009-25-53.png" width="90%" height="90%">
 
+### Update Employee
+<img src="https://github.com/birehan/Employee-Management-Site/blob/main/assets/update.png" width="90%" height="90%">
+
+### Delete Employee
+<img src="https://github.com/birehan/Employee-Management-Site/blob/main/assets/delete.png" width="90%" height="90%">
 
 

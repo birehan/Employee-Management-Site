@@ -3,6 +3,9 @@ A simple one page Employers Management website made using
 - [x] React
 - [x] Node js
 - [x] Mongo Databse
+- [x] Redux State Management
+- [x] Redux-Saga handling asynchronous api calls
+- [x] Rebass and Emotion styling   
 ## Home Page 
 
 <img src="https://github.com/birehan/Employee-Management-Site/blob/main/assets/Screenshot%20from%202023-01-11%2009-18-04.png" width="100%" height="100%">
